@@ -1,0 +1,19 @@
+.headersec{
+    background-image:url("C:\Users\Dhanashree\Desktop\Mini Project\4-essential-skills-every-net-developer-must-possess.jpg");
+    height: 90vh;
+    background-size:100% 100%;
+}
+
+.projectimage{
+    height: 30px;
+}
+
+.skilltype:hover{
+    margin-top: 1rem;
+    box-shadow: 5px 5px 5px gray;
+    transition:all ease-in-out .5s;
+
+}
+.card{
+    margin-top: 2rem;
+}
